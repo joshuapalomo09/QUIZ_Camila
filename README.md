@@ -9,3 +9,5 @@ es un software o programa informático diseñado para realizar tareas o funcione
 3. 😶‍🌫️**DISCO DURO (HDD)**
 Dispositivos de almacenamiento de datos no volátil que usan platos magnéticos giratorios para guardar y recuperar información digital .
 
+4. 👺**Framework:**Conjunto de herramientas y librerías para desarrollar aplicaciones.
+
