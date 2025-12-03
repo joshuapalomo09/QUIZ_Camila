@@ -16,3 +16,7 @@ Dispositivos de almacenamiento de datos no volátil que usan platos magnéticos 
 5. 🦧**Cosmo DB**
 Base de datos distribuida de Microsoft Azure.
 
+6. 💵**RAM**
+ Memoria de acceso aleatorio de un sistema.
+
+
