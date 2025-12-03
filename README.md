@@ -19,4 +19,9 @@ Base de datos distribuida de Microsoft Azure.
 6. 💵**RAM**
  Memoria de acceso aleatorio de un sistema.
 
+7. 🦁**Pipelines*
+Conjunto de etapas automatizadas en procesos de CI/CD que permiten la integración, pruebas y despliegue continuo.
+
+
+
 
